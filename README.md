@@ -20,7 +20,7 @@ A passionate Full Stack Developer constantly learning and building impactful app
 ## 📫 Reach Me At
 
 - 📧 [raabeeadk@gmail.com](mailto:raabeeadk@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/raabee-adk-b1122a360/])
+- 💼 [LinkedIn]([www.linkedin.com/in/raabee-adhikari-b1122a360])
 
 ---
 
